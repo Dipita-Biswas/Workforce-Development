@@ -13,7 +13,7 @@ Workforce development is critical for organizational growth and employee retenti
 * Creating targeted marketing content for different employee segments
 * Optimizing resource allocation across training programs
 
-This project aims to:
+This project is divided into 5 cases and aims to:
 * Assess the causal impact of training interventions using experimental methods
 * Segment employees based on training motivations and behaviors
 * Generate actionable insights to improve program effectiveness
@@ -42,45 +42,6 @@ The dataset comes from NLS (National Learning Services) and includes comprehensi
 
 ---
 
-## Project Structure
-
-```
-├── case 1/                    # Case 1 analysis and presentation
-│   ├── Case 1_Presentation.pdf
-│   └── Case 1_Presentation.pptx
-├── case 2/                    # Case 2 analysis and presentation
-│   └── Case 2_Presentation.pdf
-├── case 3/                    # Case 3 analysis and infographic
-│   └── Part 3_Infographic.pdf
-├── case 4/                    # Case 4: Custom GPT for targeted content
-│   └── Case 4_Custom GPT.pdf
-├── case 5/                    # Case 5: Experimental analysis
-│   ├── Case 5_Presentation.pdf
-│   └── Case 5.ipynb          # Difference-in-Differences analysis
-└── Data & Information/        # Data files and documentation
-    ├── nls_employees.csv
-    ├── nls_courses.csv
-    ├── nls_enrollment.csv
-    ├── nls_experiment.csv
-    ├── nls_assessments.csv
-    ├── nls_emp_survey.csv
-    ├── nls_local_offices.csv
-    ├── nls_regional_centers.csv
-    ├── Detailed_All_Office_Performance_Summary_with_Office_ID.csv
-    ├── Case_3_Case_Overview.pdf
-    ├── Case_4_Case_Overview.pdf
-    ├── Case_5_Case_Overview.pdf
-    ├── Case 3 Memo.pdf
-    ├── Case 4 Memo.pdf
-    ├── Case 5 Documentation.pdf
-    ├── NLS Company Introduction.pdf
-    ├── NLS Data Dictionary.pdf
-    ├── NLS EDP Brochure.pdf
-    ├── NLS Geography FactSheet.pdf
-    └── Custom GPT Configure.txt
-```
-
----
 
 ## Project Objectives
 
